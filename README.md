@@ -47,7 +47,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MOSHFIQS&label=Profile%20views&color=0e75b6&style=flat" alt="MOSHFIQS" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOSHFIQS" alt="MOSHFIQS" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOSHFIQS&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 <p align="center"> <a href="https://twitter.com/nibir3211" target="blank"><img src="https://img.shields.io/twitter/follow/nibir3211?logo=twitter&style=for-the-badge" alt="nibir3211" /></a> </p>
 
