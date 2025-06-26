@@ -11,7 +11,7 @@
    
   <img src="https://nirzak-streak-stats.vercel.app/?user=MOSHFIQS&theme=panda&hide_border=true" alt="GitHub Streak" width="400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHFIQS&theme=panda&layout=compact&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHFIQS&theme=panda&layout=compact&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 
