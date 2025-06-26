@@ -5,8 +5,6 @@
   <img src="https://i.ibb.co/Cph5cxzV/final.png" alt="Moshfiqur Rahman Banner" />
 </p>
 
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://codegrills.in)
-<img alt="Coding" width="1000" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MOSHFIQS&label=Profile%20views&color=0e75b6&style=flat" alt="MOSHFIQS" /> </p>
 
