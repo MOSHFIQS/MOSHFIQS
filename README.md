@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=moshfiqs&bg_color=02170a&color=c1b3c0&line=24640c&point=117e32&area=true&hide_border=true" height="200px" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=02170a&color=c1b3c0&line=24640c&point=117e32&area=true&hide_border=true" height="200px" />
     </td>
     <td width="40%">
-      <img src="https://streak-stats.demolab.com?user=moshfiqs&theme=dark&hide_border=true&background=02170a&ring=117e32&fire=117e32&currStreakLabel=c1b3c0&hide_current_streak=true&card_height=260" />
+      <img src="https://streak-stats.demolab.com?user=MOSHFIQS&theme=dark&hide_border=true&background=02170a&ring=117e32&fire=117e32&currStreakLabel=c1b3c0&hide_current_streak=true&card_height=260" />
     </td>
   </tr>
 </table>
@@ -20,14 +20,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moshfiqs&theme=panda&hide_border=true&show_icons=true" alt="Moshfiqur's GitHub stats" width="378" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=MOSHFIQS&theme=panda&hide_border=true&show_icons=true" alt="Moshfiqur's GitHub stats" width="378" />  
    
-  <img src="https://nirzak-streak-stats.vercel.app/?user=moshfiqs&theme=panda&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MOSHFIQS&theme=panda&hide_border=true" alt="GitHub Streak" width="400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshfiqs&theme=panda&layout=compact&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHFIQS&theme=panda&layout=compact&hide_border=true" alt="Top Languages" width="300" />
 </p>
-
-
 
 
 
@@ -64,7 +62,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MOSHFIQS&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-<p align="center"> <a href="https://twitter.com/nibir3211" target="blank"><img src="https://img.shields.io/twitter/follow/nibir3211?logo=twitter&style=for-the-badge" alt="nibir3211" /></a> </p>
+<p align="center"> <a href="https://twitter.com/nibir3211" target="blank"><img src="https://img.shields.io/twitter/follow/nibir3211?logo=twitter&style=for-the-badge" alt="moshfiqs.dev" /></a> </p>
 
 
 
