@@ -16,7 +16,7 @@
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=02170a&color=c1b3c0&line=24640c&point=117e32&area=true&hide_border=false"
      style="height:155px" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MOSHFIQS&theme=panda&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MOSHFIQS&theme=panda&bg_color=02170a&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 
