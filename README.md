@@ -1,13 +1,4 @@
-<table>
-  <tr>
-    <td width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=02170a&color=c1b3c0&line=24640c&point=117e32&area=true&hide_border=true" height="100px" width="100%" />
-    </td>
-    <!-- <td width="40%">
-      <img src="https://streak-stats.demolab.com?user=MOSHFIQS&theme=dark&hide_border=true&background=02170a&ring=117e32&fire=117e32&currStreakLabel=c1b3c0&hide_current_streak=true&card_height=260" />
-    </td> -->
-  </tr>
-</table>
+
 
 
 
@@ -16,12 +7,13 @@
 </p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOSHFIQS&theme=panda&hide_border=true&show_icons=true" alt="Moshfiqur's GitHub stats" width="378" />  
-   
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MOSHFIQS&theme=panda&hide_border=true&show_icons=true" alt="Moshfiqur's GitHub stats" width="378" />  
+    -->
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=02170a&color=c1b3c0&line=24640c&point=117e32&area=true&hide_border=true"  width="378" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=MOSHFIQS&theme=panda&hide_border=true" alt="GitHub Streak" width="400" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHFIQS&theme=panda&layout=compact&hide_border=true" alt="Top Languages" width="300" />
