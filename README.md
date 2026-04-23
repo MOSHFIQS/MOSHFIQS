@@ -21,6 +21,37 @@
 
 
 
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=mdtanbirhossen&theme=dark&hide_border=false" 
+    alt="Md Tanbir Hossen GitHub Streak" 
+    style="margin-bottom: 20px;" 
+  />
+  <p align="center">
+    <a href="https://github.com/mdtanbirhossen">
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdtanbirhossen&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&ring_color=00bfbf&card_width=495"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdtanbirhossen&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+    </a>
+  </p>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdtanbirhossen&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" width="90%" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtanbirhossen&bg_color=0D1117&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+  </div>
+
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&fontSize=0" width="100%">
+  </div>
+</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
