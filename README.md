@@ -131,7 +131,7 @@ const moshfiq: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=0D1117&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&area_color=003333&hide_border=true&custom_title=Moshfiq%27s%20Contribution%20Graph&radius=6" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSHFIQS&bg_color=151b23&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&area_color=003333&hide_border=true&custom_title=Moshfiq%27s%20Contribution%20Graph&radius=6" width="96%"/>
 </div>
 
 <!-- --- -->
