@@ -123,7 +123,7 @@ const moshfiq: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOSHFIQS&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00ffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOSHFIQS&background=151b23&stroke=00bfbf&ring=00bfbf&fire=00ffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
