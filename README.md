@@ -127,6 +127,15 @@ const moshfiq: Developer = {
 </div>
 
 ---
+## 🏆 Trophies Collection
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=moshfiqs&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" width="90%" />
+  </div>
+
+
+
+---
 
 ## 📈 Contribution Graph
 
